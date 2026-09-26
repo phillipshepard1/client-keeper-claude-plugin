@@ -1,4 +1,4 @@
-# Client Keeper for Claude
+# Client Keeper - Real Estate CRM, for Claude
 
 [Client Keeper](https://clientkeepercrm.com) is a CRM built for real-estate agents: contacts and
 leads, follow-ups, to-dos, notes, birthdays and housiversaries, and a transaction pipeline from
