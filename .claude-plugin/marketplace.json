@@ -1,0 +1,21 @@
+{
+  "name": "client-keeper",
+  "owner": {
+    "name": "Client Keeper",
+    "email": "support@clientkeepercrm.com",
+    "url": "https://clientkeepercrm.com"
+  },
+  "metadata": {
+    "description": "Client Keeper CRM plugin for Claude",
+    "version": "0.2.0"
+  },
+  "plugins": [
+    {
+      "name": "client-keeper",
+      "source": "./",
+      "description": "Client Keeper CRM: the Client Keeper connector plus skills for daily reviews, meeting prep, touchpoint logging, and pipeline reviews.",
+      "category": "productivity",
+      "keywords": ["crm", "real-estate", "contacts", "follow-ups", "pipeline"]
+    }
+  ]
+}

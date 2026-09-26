@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "client-keeper": {
+      "type": "http",
+      "url": "https://mcp.clientkeepercrm.com/api/mcp"
+    }
+  }
+}

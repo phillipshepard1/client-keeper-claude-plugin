@@ -1,0 +1,22 @@
+{
+  "name": "client-keeper",
+  "displayName": "Client Keeper",
+  "version": "0.2.0",
+  "description": "Connect Client Keeper CRM: search contacts and leads, review upcoming follow-ups and birthdays, prep for meetings, log notes and to-dos, and manage transaction pipelines.",
+  "author": {
+    "name": "Client Keeper",
+    "email": "support@clientkeepercrm.com",
+    "url": "https://clientkeepercrm.com"
+  },
+  "homepage": "https://clientkeepercrm.com/claude",
+  "repository": "https://github.com/phillipshepard1/client-keeper-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "real-estate",
+    "contacts",
+    "follow-ups",
+    "pipeline",
+    "sales"
+  ]
+}
