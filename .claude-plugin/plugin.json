@@ -21,5 +21,7 @@
     "real-estate-crm",
     "realtor",
     "sales"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://clientkeepercrm.com/privacy-policy"
 }
