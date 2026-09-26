@@ -23,5 +23,8 @@
     "sales"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://clientkeepercrm.com/privacy-policy"
+  "privacyPolicyUrl": "https://clientkeepercrm.com/privacy-policy",
+  "supportUrl": "mailto:support@clientkeepercrm.com",
+  "documentationUrl": "https://clientkeepercrm.com/claude",
+  "termsOfServiceUrl": "https://clientkeepercrm.com/terms-of-service"
 }
